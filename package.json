@@ -1,0 +1,29 @@
+{
+  "name": "bookstore_server",
+  "version": "1.0.0",
+  "description": "Book Store is a Online Book selling app where you can buy your book online",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalil5614/Assignment-4-Server-Side-Code.git"
+  },
+  "keywords": [
+    "Products",
+    "Details",
+    "Buy"
+  ],
+  "author": "khalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalil5614/Assignment-4-Server-Side-Code/issues"
+  },
+  "homepage": "https://github.com/khalil5614/Assignment-4-Server-Side-Code#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
